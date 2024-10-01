@@ -1,10 +1,12 @@
-td, th{border: solid white;border-style: double;}
+td, th{border: solid white;border-style: double;text-align: center;}
 
-.letra{ color:cyan}
+.letra{ color:cyan; width:98vw;height: 48vh;
+    
+}
 
 html{background-color:black;}
 
-.titulo{color:white;}
+.lista{color:white; text-align: center;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
 
 span{
     color:gold;
@@ -20,4 +22,18 @@ span{
     text-decoration: none;
 }
 
+.fonte{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.h1h3{
+    color: firebrick;
+}
+ .alinhar-esquerda{
+    text-align: left; color: rgb(155, 48, 48);font-family: cursive; font-size: 15px;
+ }
 
