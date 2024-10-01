@@ -27,8 +27,8 @@ span{
 .h1h3{
     color: firebrick;
 }
- .alinhar-direita{
-    text-align: right; color: rgb(155, 48, 48);font-family: cursive; font-size: 20px;
+ .alinhar-centro{
+    text-align: center; color:cornflowerblue;font-family: cursive; font-size: 25px;
  }
 
  .centralizar{
