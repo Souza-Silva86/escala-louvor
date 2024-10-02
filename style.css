@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Milky';
+    src: url(./Fonte/MilkyNice.otf), url(./Fonte/MilkyNice.ttf);
+}
+
+@font-face {
+    font-family: 'team';
+    src: url(./Fonte/B-TEAM.otf);
+}
+
 td, th{border: solid white;border-style: double;text-align: center;}
 
 .letra{ color:cyan; width:98vw;height: 48vh;
@@ -28,9 +38,9 @@ span{
     color: firebrick;
 }
  .alinhar-centro{
-    text-align: center; color:cornflowerblue;font-family: cursive; font-size: 25px;
+    text-align: center; color:cornflowerblue;font-family: cursive; font-size: 25px;font-weight: 300;
  }
 
  .centralizar{
-    text-align: center;font-family:serif
+    text-align: center;font-family:'Milky';font-weight: 100;
  }
