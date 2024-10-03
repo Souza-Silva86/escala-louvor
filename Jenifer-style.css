@@ -2,3 +2,7 @@ html{background-color: burlywood;}
 .lista{
     color:blue
 }
+
+ul{
+    list-style-type: decimal;
+}

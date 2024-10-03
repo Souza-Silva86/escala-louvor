@@ -1,3 +1,8 @@
+a:hover {background-color: white;
+}
+
+
+
 @font-face {
     font-family: 'Milky';
     src: url(./Fonte/MilkyNice.otf), url(./Fonte/MilkyNice.ttf);
@@ -14,7 +19,8 @@ td, th{border: solid white;border-style: double;text-align: center;}
     
 }
 
-html{background-color:black;}
+html{background-color:black;
+    }
 
 .lista{color:white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
 
@@ -44,3 +50,5 @@ span{
  .centralizar{
     text-align: center;font-family:'Milky';font-weight: 100;
  }
+
+ 

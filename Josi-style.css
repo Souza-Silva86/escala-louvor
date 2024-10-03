@@ -3,3 +3,8 @@ html{
 }
 
 .letra{color:goldenrod;}
+
+ul{
+    list-style-type: decimal;
+
+}
