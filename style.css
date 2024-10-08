@@ -20,9 +20,11 @@ td, th{border: solid white;border-style: double;text-align: center;}
 }
 
 html{background-color:black;
+    
     }
 
-.lista{color:white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
+.lista{color:white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
 span{
     color:gold;
@@ -51,4 +53,5 @@ span{
     text-align: center;font-family:'Milky';font-weight: 100;
  }
 
+.AC{text-align: center;}
  
