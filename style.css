@@ -64,17 +64,17 @@ header{
     background-color: darkgreen;
     position: fixed; 
     color: aliceblue;
-    font-size: 18px;
-    padding: 10px;
+    font-size: 16px;
+    padding: 8px;
     top: 4px;
-    border:solid white 3px; 
+    border:solid white 2px; 
    
     
 
 }
 
 body{
-    padding-top:85px;
+    padding-top:95px;
     
 
 }
