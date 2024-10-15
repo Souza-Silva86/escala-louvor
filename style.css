@@ -16,6 +16,7 @@ a:hover {background-color: white;
 td, th{border: solid white;border-style: double;text-align: center;}
 
 .letra{ color:cyan; width:98vw;height: 48vh;
+
     
 }
 
@@ -51,7 +52,32 @@ span{
 
  .centralizar{
     text-align: center;font-family:'Milky';font-weight: 100;
+    
  }
 
 .AC{text-align: center;}
+
+header{
+    width: 97%;
+    background-color: darkgreen;
+    position: fixed;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px;
+    top: 4px;
+    border:solid white 5px; 
+    margin: 0;
+   
+   
+
+}
+
+body{
+    padding-top: 53px;
+
+}
+
+
+
+
  
