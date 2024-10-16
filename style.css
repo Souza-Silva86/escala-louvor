@@ -45,6 +45,7 @@ span{
 
 .h1h3{
     color: firebrick;
+    margin: 20px;
 }
  .alinhar-centro{
     text-align: center; color:cornflowerblue;font-family: cursive; font-size: 25px;font-weight: 300;
@@ -76,7 +77,11 @@ body{
     
 }
 
+h3{margin: 20px;}
 
+h1{margin: 20px;}
+
+a{margin: 20px;}
 
 
 
