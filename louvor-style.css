@@ -1,0 +1,37 @@
+
+p{
+    color: aqua; 
+    margin: 25px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 18px;
+    text-align: justify;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+}
+
+h2{color: blue;}
+
+
+.músicas{color: white;}
+
+span{color: white;}
+
+ol{color: brown;margin-right: 10px;
+
+}
+
+html{
+    background-color: black;
+}
+
+.sem-decoration li { 
+    text-decoration: none;
+}
+
+h3{
+    color: burlywood;
+}
