@@ -1,4 +1,5 @@
-a:hover {background-color: white;
+a:hover {
+    background-color: white;
 }
 
 
@@ -13,27 +14,44 @@ a:hover {background-color: white;
     src: url(./Fonte/B-TEAM.otf);
 }
 
-td, th{border: solid white;border-style: double;text-align: center;}
+td,
+th {
+    border: solid white;
+    border-style: double;
+    text-align: center;
+}
 
-.letra{ color:cyan; width:98vw;height: 48vh;
+.letra {
+    color: cyan;
+    width: 98vw;
+    height: 48vh;
 
+
+}
+
+html {
+    background-color: black;
+    
     
 }
 
-html{background-color:black;
-    
-    }
-
-.lista{color:white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 
-    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
-
-span{
-    color:gold;
+.lista {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+        'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.fundo{color: aliceblue;}
+span {
+    color: gold;
+}
 
-.links{color: gold;}
+.fundo {
+    color: aliceblue;
+}
+
+.links {
+    color: gold;
+}
 
 
 
@@ -43,43 +61,65 @@ span{
 
 
 
-.h1h3{
+.h1h3 {
     color: firebrick;
     margin: 20px;
 }
- .alinhar-centro{
-    text-align: center; color:cornflowerblue;font-family: cursive; font-size: 25px;font-weight: 300;
- }
 
- .centralizar{
-    text-align: center;font-family:'Milky';font-weight: 100;
+.alinhar-centro {
+    text-align: center;
+    color: cornflowerblue;
+    font-family: cursive;
+    font-size: 25px;
+   
+}
+
+.centralizar {
+    text-align: center;
+    font-family: 'Milky';
     
- }
+   
+}
 
-.AC{text-align: center;}
+.AC {
+    text-align: center;
+}
 
-header{
+header {
     left: 10px;
     right: 10px;
-   
+
     background-color: darkgreen;
-    position: fixed; 
+    position: fixed;
     color: aliceblue;
     font-size: 16px;
     padding: 8px;
     top: 4px;
-    border:solid white 2px; 
+    border: solid white 2px;
 
 }
 
-body{
-    padding-top:95px;
-    
+body {
+    padding-top: 95px;
+
 }
 
-h3{margin: 20px;}
+h3 {
+    margin: 20px;
+}
 
-h1{margin: 20px;}
+h1 {
+    margin: 20px;
+}
 
-a{margin: 10px;}
+a {
+    margin: 10px;
+}
 
+img{ min-width;
+    height:300px;
+    margin-left: 40%;
+
+
+  
+}
